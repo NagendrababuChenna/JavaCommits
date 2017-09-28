@@ -1,2 +1,1 @@
-# JavaCommits
-Coding
+# Assignments Details
