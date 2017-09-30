@@ -36,6 +36,7 @@ public class Employee extends Person{
 	public void setWieght(float wieght) {
 		// TODO Auto-generated method stub
 		super.setWieght(wieght);
+		
 	}
 	
 	

@@ -24,7 +24,7 @@ public class InheritanceTest {
 		System.out.println(e1.getName());
 		System.out.println(e1.getEmpno());
 		
-		// Par5ent can hold all the Child Objects..
+		// Parent can hold all the Child Objects..
 		Person e2 = new Employee();
 		Person s2 = new Student();
 		Object o = new Employee();
